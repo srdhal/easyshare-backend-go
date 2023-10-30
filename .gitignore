@@ -1,0 +1,4 @@
+vendor
+.env
+run.ps1
+uploads
